@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ST10055763ICE1</string>
+    <string name="logosplash">logoSplash</string>
+    <string name="welcome">Welcome :)</string>
+    <string name="english">English</string>
+    <string name="ch_o_th_gi_i">Chào thế giới!</string>
+    <string name="korean">Korean (한국어)</string>
+    <string name="japanese">Japanese (日本語)</string>
+    <string name="chinese">Chinese (汉语)</string>
+    <string name="arabic">Arabic</string>
+    <string name="vietnamese">Vietnamese</string>
+</resources>
